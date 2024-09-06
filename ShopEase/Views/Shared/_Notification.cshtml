@@ -1,0 +1,174 @@
+﻿@* Partical View *@
+ 
+
+@{
+    if (TempData["insert_success"] != null)
+    {
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+        <audio id="success-sound" src="~/pixabay/success-221935.mp3"></audio>
+        <script type="text/javascript">
+            toastr.success('@TempData["insert_success"]');
+            document.getElementById("success-sound").play();
+        </script>
+    }
+}
+
+@{
+    if (TempData["delete_success"] != null)
+    {
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+        <audio id="error-sound" src="~/pixabay/error-126627.mp3"></audio>
+        <script type="text/javascript">
+            toastr.error('@TempData["delete_success"]');
+            document.getElementById("error-sound").play();
+        </script>
+    }
+}
+
+@{
+    if (TempData["update_success"] != null)
+    {
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+        <audio id="info-sound" src="~/pixabay/short-beep-tone-47916.mp3" type="audio/mpeg"></audio>
+        <script type="text/javascript">
+            toastr.info('@TempData["update_success"]');
+            document.getElementById("info-sound").play();
+        </script>
+    }
+}
+
+
+@* @{
+    if (TempData["insert_success"] != null)
+    {
+        <div id="insert-success-alert" class="alert alert-success" role="alert">
+            <h4 class="alert-heading">@TempData["insert_success"]</h4>
+        </div>
+    }
+
+    if (TempData["delete_success"] != null)
+    {
+        <div id="delete-success-alert" class="alert alert-danger" role="alert">
+            <h4 class="alert-heading">@TempData["delete_success"]</h4>
+        </div>
+    }
+
+    if (TempData["update_success"] != null)
+    {
+        <div id="update-success-alert" class="alert alert-info" role="alert">
+            <h4 class="alert-heading">@TempData["update_success"]</h4>
+        </div>
+    }
+}
+
+
+
+
+<script>
+    // Function to hide alerts after a certain time (e.g., 5 seconds)
+    setTimeout(function () {
+        var insertAlert = document.getElementById("insert-success-alert");
+        if (insertAlert) {
+            insertAlert.style.display = "none";
+        }
+
+        var deleteAlert = document.getElementById("delete-success-alert");
+        if (deleteAlert) {
+            deleteAlert.style.display = "none";
+        }
+
+        var updateAlert = document.getElementById("update-success-alert");
+        if (updateAlert) {
+            updateAlert.style.display = "none";
+        }
+    }, 5000); // 5000 milliseconds = 5 seconds
+</script>
+ *@
+
+
+
+
+@* Part 2 *@
+@*
+@{
+    if (TempData["insert_success"] != null)
+    {
+        <div id="insert-success-alert" class="alert alert-success" role="alert">
+            <h4 class="alert-heading">@TempData["insert_success"]</h4>
+        </div>
+    }
+
+    if (TempData["delete_success"] != null)
+    {
+        <div id="delete-success-alert" class="alert alert-danger" role="alert">
+            <h4 class="alert-heading">@TempData["delete_success"]</h4>
+        </div>
+    }
+
+    if (TempData["update_success"] != null)
+    {
+        <div id="update-success-alert" class="alert alert-info" role="alert">
+            <h4 class="alert-heading">@TempData["update_success"]</h4>
+        </div>
+    }
+}
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    // Function to hide alerts after a certain time (e.g., 5 seconds)
+    setTimeout(function () {
+        $("#insert-success-alert").fadeOut();
+        $("#delete-success-alert").fadeOut();
+        $("#update-success-alert").fadeOut();
+    }, 5000); // 5000 milliseconds = 5 seconds
+</script>
+ *@
+
+
+
+
+@* Part 3 *@
+@*
+@{
+    if (TempData["insert_success"] != null)
+    {
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+        <script type="text/javascript">
+            toastr.sucess('@TempData["insert_success"]');
+        </script>
+
+    }
+
+}
+@{
+    if (TempData["delete_success"] != null)
+    {
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+        <script type="text/javascript">
+            toastr.error('@TempData["delete_success"]');
+        </script>
+    }
+
+}
+@{
+    if (TempData["update_success"] != null)
+    {
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+        <script type="text/javascript">
+            toastr.info('@TempData["update_success"]');
+        </script>
+    }
+
+}
+*@
+
+
+
+
+ 

@@ -1,0 +1,12 @@
+D:\Skylark\Dot Net\MVC\Mvc_Core_Learning\ShopEase\Shop.Utility\bin\Debug\net8.0\Shop.Utility.deps.json
+D:\Skylark\Dot Net\MVC\Mvc_Core_Learning\ShopEase\Shop.Utility\bin\Debug\net8.0\Shop.Utility.dll
+D:\Skylark\Dot Net\MVC\Mvc_Core_Learning\ShopEase\Shop.Utility\bin\Debug\net8.0\Shop.Utility.pdb
+D:\Skylark\Dot Net\MVC\Mvc_Core_Learning\ShopEase\Shop.Utility\obj\Debug\net8.0\Shop.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Skylark\Dot Net\MVC\Mvc_Core_Learning\ShopEase\Shop.Utility\obj\Debug\net8.0\Shop.Utility.AssemblyInfoInputs.cache
+D:\Skylark\Dot Net\MVC\Mvc_Core_Learning\ShopEase\Shop.Utility\obj\Debug\net8.0\Shop.Utility.AssemblyInfo.cs
+D:\Skylark\Dot Net\MVC\Mvc_Core_Learning\ShopEase\Shop.Utility\obj\Debug\net8.0\Shop.Utility.csproj.CoreCompileInputs.cache
+D:\Skylark\Dot Net\MVC\Mvc_Core_Learning\ShopEase\Shop.Utility\obj\Debug\net8.0\Shop.Utility.dll
+D:\Skylark\Dot Net\MVC\Mvc_Core_Learning\ShopEase\Shop.Utility\obj\Debug\net8.0\refint\Shop.Utility.dll
+D:\Skylark\Dot Net\MVC\Mvc_Core_Learning\ShopEase\Shop.Utility\obj\Debug\net8.0\Shop.Utility.pdb
+D:\Skylark\Dot Net\MVC\Mvc_Core_Learning\ShopEase\Shop.Utility\obj\Debug\net8.0\ref\Shop.Utility.dll
+D:\Skylark\Dot Net\MVC\Mvc_Core_Learning\ShopEase\Shop.Utility\obj\Debug\net8.0\Shop.Utility.csproj.AssemblyReference.cache

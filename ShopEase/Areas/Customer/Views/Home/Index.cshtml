@@ -1,0 +1,80 @@
+﻿@model IEnumerable<Product>
+
+<style>
+    .card-img-container {
+        position: relative;
+        height: 300px; /* Adjust height as needed */
+        overflow: hidden; /* Hide any overflow to keep images within bounds */
+        display: flex;
+        align-items: center; /* Center image vertically */
+        justify-content: center; /* Center image horizontally */
+    }
+
+    .card-img-top {
+        max-width: 100%; /* Ensure image does not exceed container width */
+        max-height: 100%; /* Ensure image does not exceed container height */
+        object-fit: contain; /* Fit the image inside the container */
+    }
+
+    .card-body {
+        height: 150px; /* Adjust height for card content area */
+        overflow: hidden; /* Hide overflow if content gets too long */
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between; /* Space out the content */
+    }
+
+    .card-title {
+        margin: 0; /* Remove margin if needed */
+    }
+</style>
+
+<div class="row pb-3">
+    @foreach (var product in Model)
+    {
+        <div class="col-lg-3 col-sm-6 mb-4">
+            <div class="card border-0 p-3 shadow border-top border-5 rounded">
+                <div class="card-img-container">
+                    @if (!string.IsNullOrEmpty(product.ImageUrl))
+                    {
+                        <img src="@product.ImageUrl" class="card-img-top rounded" />
+                    }
+                    else
+                    {
+                        <img src="https://placehold.co/500x600/png" class="card-img-top rounded" />
+                    }
+                </div>
+
+                <div class="card-body pb-0">
+                    <div class="text-center">
+                        <p class="card-title h5 text-dark opacity-75 text-uppercase">@product.Title</p>
+                        <p class="card-title text-warning">by <b>@product.Author</b></p>
+                    </div>
+                    <div class="text-center">
+                        <p class="text-dark text-opacity-75 mb-0">
+                            List Price:
+                            <span class="text-decoration-line-through">
+                                @product.ListPrice.ToString("c")
+                            </span>
+                        </p>
+                    </div>
+                    <div class="text-center">
+                        <p class="text-dark text-opacity-75">
+                            As low as:
+                            <span>
+                                @product.Price100.ToString("c")
+                            </span>
+                        </p>
+                    </div>
+                </div>
+                <div>
+                    <a asp-action="Details"
+                       asp-route-productId="@product.Id"
+                       class="btn btn-primary bg-gradient border-0 form-control">
+                        Details
+                    </a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

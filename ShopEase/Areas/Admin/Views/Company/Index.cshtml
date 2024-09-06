@@ -1,0 +1,154 @@
+﻿@* @using Shop.Models *@
+@* @model List<Company> *@
+
+<partial name="_Notification" />
+
+
+<div class="container">
+    <div class="row mb-3">
+        <div class="col-md-6">
+            <h2>Company List</h2>
+        </div>
+        @*  <div class="col-md-6 text-end">
+        <a asp-controller="Product" asp-action="Create" class="btn btn-light">
+        <i class="bi bi-plus-circle"></i> Create New Product
+        </a>
+        </div> *@
+
+        @*
+        <div class="col-md-6 text-end">
+        <a asp-controller="Product" asp-action="Create" class="btn" style="background-color: #660033; color: white;">
+        <i class="bi bi-plus-circle"></i> Create New Product
+        </a>
+        </div> *@
+
+
+        <div class="col-md-6 text-end">
+            <a asp-controller="Company" asp-action="Upsert" class="btn" style="background-color: #660033; color: white;">
+                <i class="bi bi-plus-circle"></i> Create New Company
+            </a>
+        </div>
+
+        <table id="tblData" class="table table-bordered table-striped" style="width:100%">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Name</th>
+                    <th>Address</th>
+                    <th>City</th>
+                    <th>State</th>
+                    <th>Phone Number</th>
+                    <th></th>
+                </tr>
+            </thead>
+            @*   <tbody>
+
+            @foreach (var obj in Model)
+            {
+            <tr>
+            <td>@obj.Title</td>
+            <td>@obj.ISBN</td>
+            <td>@obj.Price</td>
+            <td>@obj.Author</td>
+            <td>@obj.Category.Name</td>
+
+            <td>
+            <div class="btn-group w-75" role="group">
+            <a asp-controller="Product" asp-action="Upsert" asp-route-id="@obj.Id" class="btn btn-primary mx-2">
+            <i class="bi bi-pencil-square"></i>Edit
+            </a>
+
+            <a asp-controller="Product" asp-action="Delete" asp-route-id="@obj.Id" class="btn btn-danger mx-2">
+            <i class="bi bi-trash-fill"></i> Delete
+            </a>
+            </div>
+            </td>
+            </tr>
+            }
+
+            </tbody> *@
+        </table>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/datatables/company.js"></script>
+}
+
+
+@*
+
+
+
+
+    @{
+        if (TempData["insert_success"] != null)
+        {
+            <div class="alert alert-success" role="alert">
+                <h4 class="alert-heading">@TempData["insert_success"]</h4>
+
+            </div>
+        }
+
+    }
+    @{
+        if (TempData["delete_success"] != null)
+        {
+            <div class="alert alert-danger" role="alert">
+                <h4 class="alert-heading">@TempData["delete_success"]</h4>
+
+            </div>
+        }
+
+    }
+    @{
+        if (TempData["update_success"] != null)
+        {
+            <div class="alert alert-info" role="alert">
+                <h4 class="alert-heading">@TempData["update_success"]</h4>
+
+            </div>
+        }
+
+    } *@
+
+     
+
+
+
+@* <table class="table table-bordered table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th>Title</th>
+            <th>ISBN</th>
+            <th>Price</th>
+            <th>Author</th>
+            <th>Category</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var obj in Model)
+        {
+            <tr>
+                <td>@obj.Title</td>
+                <td>@obj.ISBN</td>
+                <td>@obj.Price</td>
+                <td>@obj.Author</td>
+                <td>@obj.Category.Name</td>
+
+                <td>
+                    <div class="btn-group w-75" role="group">
+                        <a asp-controller="Product" asp-action="Upsert" asp-route-id="@obj.Id" class="btn btn-primary mx-2">
+                            <i class="bi bi-pencil-square"></i>Edit
+                        </a>
+
+                        <a asp-controller="Product" asp-action="Delete" asp-route-id="@obj.Id" class="btn btn-danger mx-2">
+                            <i class="bi bi-trash-fill"></i> Delete
+                        </a>
+                    </div>
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table> *@

@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ShopEase.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ShopEase.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\DataTables\\company.js",
+      "PackagePath": "staticwebassets\\DataTables\\company.js"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\DataTables\\product.js",
+      "PackagePath": "staticwebassets\\DataTables\\product.js"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\bootswatch\\bootswatch_1.css",
+      "PackagePath": "staticwebassets\\bootswatch\\bootswatch_1.css"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\bootswatch\\bootswatch_2.css",
+      "PackagePath": "staticwebassets\\bootswatch\\bootswatch_2.css"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\bootswatch\\bootswatch_3.css",
+      "PackagePath": "staticwebassets\\bootswatch\\bootswatch_3.css"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\images\\book.png",
+      "PackagePath": "staticwebassets\\images\\book.png"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\images\\product\\1074c5e9-96de-4d57-9494-94dfbbb7a643.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\1074c5e9-96de-4d57-9494-94dfbbb7a643.jpeg"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\images\\product\\2af95547-36c2-468e-a660-b14d5f844afe.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\2af95547-36c2-468e-a660-b14d5f844afe.jpg"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\images\\product\\2ebfe543-5361-4edf-aa5b-063a61e5ba7c.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\2ebfe543-5361-4edf-aa5b-063a61e5ba7c.jpg"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\images\\product\\4a913310-8ef9-452a-842c-099ae6d76459.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\4a913310-8ef9-452a-842c-099ae6d76459.jpg"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\images\\product\\65a1ffdf-8c11-4fcb-9ea2-254ec4e66cc1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\65a1ffdf-8c11-4fcb-9ea2-254ec4e66cc1.jpg"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\images\\product\\93b44059-5470-452c-b8c7-bfdfc6541feb.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\93b44059-5470-452c-b8c7-bfdfc6541feb.jpg"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\images\\product\\b2f2d937-4c83-4732-ab96-b2fed3a704ab.png",
+      "PackagePath": "staticwebassets\\images\\product\\b2f2d937-4c83-4732-ab96-b2fed3a704ab.png"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\images\\product\\c189de9f-95ab-4d51-bd5d-c83012ab6ddb.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\c189de9f-95ab-4d51-bd5d-c83012ab6ddb.jpg"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\images\\product\\f05af7fe-35b5-4d56-a8e7-fe039b90d927.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\f05af7fe-35b5-4d56-a8e7-fe039b90d927.jpg"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\pixabay\\beep-sound-8333.mp3",
+      "PackagePath": "staticwebassets\\pixabay\\beep-sound-8333.mp3"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\pixabay\\error-126627.mp3",
+      "PackagePath": "staticwebassets\\pixabay\\error-126627.mp3"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\pixabay\\short-beep-tone-47916.mp3",
+      "PackagePath": "staticwebassets\\pixabay\\short-beep-tone-47916.mp3"
+    },
+    {
+      "Id": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\wwwroot\\pixabay\\success-221935.mp3",
+      "PackagePath": "staticwebassets\\pixabay\\success-221935.mp3"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ShopEase.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ShopEase.props",
+      "PackagePath": "build\\ShopEase.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ShopEase.props",
+      "PackagePath": "buildMultiTargeting\\ShopEase.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ShopEase.props",
+      "PackagePath": "buildTransitive\\ShopEase.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
