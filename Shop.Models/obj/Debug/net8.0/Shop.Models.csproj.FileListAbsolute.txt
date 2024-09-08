@@ -10,3 +10,16 @@ D:\Skylark\Dot Net\MVC\Mvc_Core_Learning\ShopEase\Shop.Models\obj\Debug\net8.0\S
 D:\Skylark\Dot Net\MVC\Mvc_Core_Learning\ShopEase\Shop.Models\obj\Debug\net8.0\refint\Shop.Models.dll
 D:\Skylark\Dot Net\MVC\Mvc_Core_Learning\ShopEase\Shop.Models\obj\Debug\net8.0\Shop.Models.pdb
 D:\Skylark\Dot Net\MVC\Mvc_Core_Learning\ShopEase\Shop.Models\obj\Debug\net8.0\ref\Shop.Models.dll
+C:\Users\Pankaj Suryawanshi\Downloads\Git\ShopEase\Shop.Models\bin\Debug\net8.0\Shop.Models.deps.json
+C:\Users\Pankaj Suryawanshi\Downloads\Git\ShopEase\Shop.Models\bin\Debug\net8.0\Shop.Models.dll
+C:\Users\Pankaj Suryawanshi\Downloads\Git\ShopEase\Shop.Models\bin\Debug\net8.0\Shop.Models.pdb
+C:\Users\Pankaj Suryawanshi\Downloads\Git\ShopEase\Shop.Models\obj\Debug\net8.0\Shop.Models.csproj.AssemblyReference.cache
+C:\Users\Pankaj Suryawanshi\Downloads\Git\ShopEase\Shop.Models\obj\Debug\net8.0\Shop.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pankaj Suryawanshi\Downloads\Git\ShopEase\Shop.Models\obj\Debug\net8.0\Shop.Models.AssemblyInfoInputs.cache
+C:\Users\Pankaj Suryawanshi\Downloads\Git\ShopEase\Shop.Models\obj\Debug\net8.0\Shop.Models.AssemblyInfo.cs
+C:\Users\Pankaj Suryawanshi\Downloads\Git\ShopEase\Shop.Models\obj\Debug\net8.0\Shop.Models.csproj.CoreCompileInputs.cache
+C:\Users\Pankaj Suryawanshi\Downloads\Git\ShopEase\Shop.Models\obj\Debug\net8.0\Shop.Models.sourcelink.json
+C:\Users\Pankaj Suryawanshi\Downloads\Git\ShopEase\Shop.Models\obj\Debug\net8.0\Shop.Models.dll
+C:\Users\Pankaj Suryawanshi\Downloads\Git\ShopEase\Shop.Models\obj\Debug\net8.0\refint\Shop.Models.dll
+C:\Users\Pankaj Suryawanshi\Downloads\Git\ShopEase\Shop.Models\obj\Debug\net8.0\Shop.Models.pdb
+C:\Users\Pankaj Suryawanshi\Downloads\Git\ShopEase\Shop.Models\obj\Debug\net8.0\ref\Shop.Models.dll

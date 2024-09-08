@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sb9slYOpHqI=",
+  "dgSpecHash": "xgRlsz+aAug=",
   "success": true,
-  "projectFilePath": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\Shop.Models\\Shop.Models.csproj",
+  "projectFilePath": "C:\\Users\\Pankaj Suryawanshi\\Downloads\\Git\\ShopEase\\Shop.Models\\Shop.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pankaj Suryawanshi\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\Pankaj Suryawanshi\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

@@ -14027,11 +14027,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\ShopEase.csproj",
+      "projectUniqueName": "C:\\Users\\Pankaj Suryawanshi\\Downloads\\Git\\ShopEase\\ShopEase\\ShopEase.csproj",
       "projectName": "ShopEase",
-      "projectPath": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\ShopEase.csproj",
+      "projectPath": "C:\\Users\\Pankaj Suryawanshi\\Downloads\\Git\\ShopEase\\ShopEase\\ShopEase.csproj",
       "packagesPath": "C:\\Users\\Pankaj Suryawanshi\\.nuget\\packages\\",
-      "outputPath": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\ShopEase\\obj\\",
+      "outputPath": "C:\\Users\\Pankaj Suryawanshi\\Downloads\\Git\\ShopEase\\ShopEase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pankaj Suryawanshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -14049,8 +14049,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\Shop.DataAccess\\Shop.DataAccess.csproj": {
-              "projectPath": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\Shop.DataAccess\\Shop.DataAccess.csproj"
+            "C:\\Users\\Pankaj Suryawanshi\\Downloads\\Git\\ShopEase\\Shop.DataAccess\\Shop.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Pankaj Suryawanshi\\Downloads\\Git\\ShopEase\\Shop.DataAccess\\Shop.DataAccess.csproj"
             }
           }
         }

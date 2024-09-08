@@ -10037,11 +10037,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\Shop.DataAccess\\Shop.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Pankaj Suryawanshi\\Downloads\\Git\\ShopEase\\Shop.DataAccess\\Shop.DataAccess.csproj",
       "projectName": "Shop.DataAccess",
-      "projectPath": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\Shop.DataAccess\\Shop.DataAccess.csproj",
+      "projectPath": "C:\\Users\\Pankaj Suryawanshi\\Downloads\\Git\\ShopEase\\Shop.DataAccess\\Shop.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Pankaj Suryawanshi\\.nuget\\packages\\",
-      "outputPath": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\Shop.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\Pankaj Suryawanshi\\Downloads\\Git\\ShopEase\\Shop.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pankaj Suryawanshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10059,11 +10059,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\Shop.Models\\Shop.Models.csproj": {
-              "projectPath": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\Shop.Models\\Shop.Models.csproj"
+            "C:\\Users\\Pankaj Suryawanshi\\Downloads\\Git\\ShopEase\\Shop.Models\\Shop.Models.csproj": {
+              "projectPath": "C:\\Users\\Pankaj Suryawanshi\\Downloads\\Git\\ShopEase\\Shop.Models\\Shop.Models.csproj"
             },
-            "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\Shop.Utility\\Shop.Utility.csproj": {
-              "projectPath": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\Shop.Utility\\Shop.Utility.csproj"
+            "C:\\Users\\Pankaj Suryawanshi\\Downloads\\Git\\ShopEase\\Shop.Utility\\Shop.Utility.csproj": {
+              "projectPath": "C:\\Users\\Pankaj Suryawanshi\\Downloads\\Git\\ShopEase\\Shop.Utility\\Shop.Utility.csproj"
             }
           }
         }

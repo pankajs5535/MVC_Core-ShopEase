@@ -10,3 +10,16 @@ D:\Skylark\Dot Net\MVC\Mvc_Core_Learning\ShopEase\Shop.Utility\obj\Debug\net8.0\
 D:\Skylark\Dot Net\MVC\Mvc_Core_Learning\ShopEase\Shop.Utility\obj\Debug\net8.0\Shop.Utility.pdb
 D:\Skylark\Dot Net\MVC\Mvc_Core_Learning\ShopEase\Shop.Utility\obj\Debug\net8.0\ref\Shop.Utility.dll
 D:\Skylark\Dot Net\MVC\Mvc_Core_Learning\ShopEase\Shop.Utility\obj\Debug\net8.0\Shop.Utility.csproj.AssemblyReference.cache
+C:\Users\Pankaj Suryawanshi\Downloads\Git\ShopEase\Shop.Utility\bin\Debug\net8.0\Shop.Utility.deps.json
+C:\Users\Pankaj Suryawanshi\Downloads\Git\ShopEase\Shop.Utility\bin\Debug\net8.0\Shop.Utility.dll
+C:\Users\Pankaj Suryawanshi\Downloads\Git\ShopEase\Shop.Utility\bin\Debug\net8.0\Shop.Utility.pdb
+C:\Users\Pankaj Suryawanshi\Downloads\Git\ShopEase\Shop.Utility\obj\Debug\net8.0\Shop.Utility.csproj.AssemblyReference.cache
+C:\Users\Pankaj Suryawanshi\Downloads\Git\ShopEase\Shop.Utility\obj\Debug\net8.0\Shop.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pankaj Suryawanshi\Downloads\Git\ShopEase\Shop.Utility\obj\Debug\net8.0\Shop.Utility.AssemblyInfoInputs.cache
+C:\Users\Pankaj Suryawanshi\Downloads\Git\ShopEase\Shop.Utility\obj\Debug\net8.0\Shop.Utility.AssemblyInfo.cs
+C:\Users\Pankaj Suryawanshi\Downloads\Git\ShopEase\Shop.Utility\obj\Debug\net8.0\Shop.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Pankaj Suryawanshi\Downloads\Git\ShopEase\Shop.Utility\obj\Debug\net8.0\Shop.Utility.sourcelink.json
+C:\Users\Pankaj Suryawanshi\Downloads\Git\ShopEase\Shop.Utility\obj\Debug\net8.0\Shop.Utility.dll
+C:\Users\Pankaj Suryawanshi\Downloads\Git\ShopEase\Shop.Utility\obj\Debug\net8.0\refint\Shop.Utility.dll
+C:\Users\Pankaj Suryawanshi\Downloads\Git\ShopEase\Shop.Utility\obj\Debug\net8.0\Shop.Utility.pdb
+C:\Users\Pankaj Suryawanshi\Downloads\Git\ShopEase\Shop.Utility\obj\Debug\net8.0\ref\Shop.Utility.dll

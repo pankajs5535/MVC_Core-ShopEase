@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\",
+  "WorkspaceRootPath": "C:\\Users\\Pankaj Suryawanshi\\Downloads\\Git\\ShopEase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D6208CE-B81B-44F8-AC2B-8ACCD2BDC78A}|Shop.DataAccess\\Shop.DataAccess.csproj|d:\\skylark\\dot net\\mvc\\mvc_core_learning\\shopease\\shop.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D6208CE-B81B-44F8-AC2B-8ACCD2BDC78A}|Shop.DataAccess\\Shop.DataAccess.csproj|c:\\users\\pankaj suryawanshi\\downloads\\git\\shopease\\shop.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D6208CE-B81B-44F8-AC2B-8ACCD2BDC78A}|Shop.DataAccess\\Shop.DataAccess.csproj|solutionrelative:shop.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D6208CE-B81B-44F8-AC2B-8ACCD2BDC78A}|Shop.DataAccess\\Shop.DataAccess.csproj|d:\\skylark\\dot net\\mvc\\mvc_core_learning\\shopease\\shop.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D6208CE-B81B-44F8-AC2B-8ACCD2BDC78A}|Shop.DataAccess\\Shop.DataAccess.csproj|c:\\users\\pankaj suryawanshi\\downloads\\git\\shopease\\shop.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D6208CE-B81B-44F8-AC2B-8ACCD2BDC78A}|Shop.DataAccess\\Shop.DataAccess.csproj|solutionrelative:shop.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D6208CE-B81B-44F8-AC2B-8ACCD2BDC78A}|Shop.DataAccess\\Shop.DataAccess.csproj|d:\\skylark\\dot net\\mvc\\mvc_core_learning\\shopease\\shop.dataaccess\\repository\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D6208CE-B81B-44F8-AC2B-8ACCD2BDC78A}|Shop.DataAccess\\Shop.DataAccess.csproj|c:\\users\\pankaj suryawanshi\\downloads\\git\\shopease\\shop.dataaccess\\repository\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D6208CE-B81B-44F8-AC2B-8ACCD2BDC78A}|Shop.DataAccess\\Shop.DataAccess.csproj|solutionrelative:shop.dataaccess\\repository\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D6208CE-B81B-44F8-AC2B-8ACCD2BDC78A}|Shop.DataAccess\\Shop.DataAccess.csproj|d:\\skylark\\dot net\\mvc\\mvc_core_learning\\shopease\\shop.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D6208CE-B81B-44F8-AC2B-8ACCD2BDC78A}|Shop.DataAccess\\Shop.DataAccess.csproj|c:\\users\\pankaj suryawanshi\\downloads\\git\\shopease\\shop.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D6208CE-B81B-44F8-AC2B-8ACCD2BDC78A}|Shop.DataAccess\\Shop.DataAccess.csproj|solutionrelative:shop.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D6208CE-B81B-44F8-AC2B-8ACCD2BDC78A}|Shop.DataAccess\\Shop.DataAccess.csproj|d:\\skylark\\dot net\\mvc\\mvc_core_learning\\shopease\\shop.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D6208CE-B81B-44F8-AC2B-8ACCD2BDC78A}|Shop.DataAccess\\Shop.DataAccess.csproj|c:\\users\\pankaj suryawanshi\\downloads\\git\\shopease\\shop.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D6208CE-B81B-44F8-AC2B-8ACCD2BDC78A}|Shop.DataAccess\\Shop.DataAccess.csproj|solutionrelative:shop.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D6208CE-B81B-44F8-AC2B-8ACCD2BDC78A}|Shop.DataAccess\\Shop.DataAccess.csproj|d:\\skylark\\dot net\\mvc\\mvc_core_learning\\shopease\\shop.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D6208CE-B81B-44F8-AC2B-8ACCD2BDC78A}|Shop.DataAccess\\Shop.DataAccess.csproj|c:\\users\\pankaj suryawanshi\\downloads\\git\\shopease\\shop.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D6208CE-B81B-44F8-AC2B-8ACCD2BDC78A}|Shop.DataAccess\\Shop.DataAccess.csproj|solutionrelative:shop.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D6208CE-B81B-44F8-AC2B-8ACCD2BDC78A}|Shop.DataAccess\\Shop.DataAccess.csproj|d:\\skylark\\dot net\\mvc\\mvc_core_learning\\shopease\\shop.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D6208CE-B81B-44F8-AC2B-8ACCD2BDC78A}|Shop.DataAccess\\Shop.DataAccess.csproj|c:\\users\\pankaj suryawanshi\\downloads\\git\\shopease\\shop.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D6208CE-B81B-44F8-AC2B-8ACCD2BDC78A}|Shop.DataAccess\\Shop.DataAccess.csproj|solutionrelative:shop.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,9 +44,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "OrderDetailRepository.cs",
-              "DocumentMoniker": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\Shop.DataAccess\\Repository\\OrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pankaj Suryawanshi\\Downloads\\Git\\ShopEase\\Shop.DataAccess\\Repository\\OrderDetailRepository.cs",
               "RelativeDocumentMoniker": "Shop.DataAccess\\Repository\\OrderDetailRepository.cs",
-              "ToolTip": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\Shop.DataAccess\\Repository\\OrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\Pankaj Suryawanshi\\Downloads\\Git\\ShopEase\\Shop.DataAccess\\Repository\\OrderDetailRepository.cs",
               "RelativeToolTip": "Shop.DataAccess\\Repository\\OrderDetailRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,11 +56,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\Shop.DataAccess\\Repository\\UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Pankaj Suryawanshi\\Downloads\\Git\\ShopEase\\Shop.DataAccess\\Repository\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "Shop.DataAccess\\Repository\\UnitOfWork.cs",
-              "ToolTip": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\Shop.DataAccess\\Repository\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Pankaj Suryawanshi\\Downloads\\Git\\ShopEase\\Shop.DataAccess\\Repository\\UnitOfWork.cs",
               "RelativeToolTip": "Shop.DataAccess\\Repository\\UnitOfWork.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAApwCsAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-01T03:25:25.389Z",
               "EditorCaption": ""
@@ -69,22 +69,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\Shop.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Pankaj Suryawanshi\\Downloads\\Git\\ShopEase\\Shop.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "Shop.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
-              "ToolTip": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\Shop.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Pankaj Suryawanshi\\Downloads\\Git\\ShopEase\\Shop.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
               "RelativeToolTip": "Shop.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T03:22:20.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T03:22:20.784Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\Shop.DataAccess\\Repository\\CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pankaj Suryawanshi\\Downloads\\Git\\ShopEase\\Shop.DataAccess\\Repository\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "Shop.DataAccess\\Repository\\CategoryRepository.cs",
-              "ToolTip": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\Shop.DataAccess\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Pankaj Suryawanshi\\Downloads\\Git\\ShopEase\\Shop.DataAccess\\Repository\\CategoryRepository.cs",
               "RelativeToolTip": "Shop.DataAccess\\Repository\\CategoryRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -94,9 +93,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\Shop.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pankaj Suryawanshi\\Downloads\\Git\\ShopEase\\Shop.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "Shop.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
-              "ToolTip": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\Shop.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Pankaj Suryawanshi\\Downloads\\Git\\ShopEase\\Shop.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
               "RelativeToolTip": "Shop.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -106,9 +105,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\Shop.DataAccess\\Repository\\Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Pankaj Suryawanshi\\Downloads\\Git\\ShopEase\\Shop.DataAccess\\Repository\\Repository.cs",
               "RelativeDocumentMoniker": "Shop.DataAccess\\Repository\\Repository.cs",
-              "ToolTip": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\Shop.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\Pankaj Suryawanshi\\Downloads\\Git\\ShopEase\\Shop.DataAccess\\Repository\\Repository.cs",
               "RelativeToolTip": "Shop.DataAccess\\Repository\\Repository.cs",
               "ViewState": "AQIAAGsAAAAAAAAAAAAwwKIAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -118,9 +117,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\Shop.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pankaj Suryawanshi\\Downloads\\Git\\ShopEase\\Shop.DataAccess\\Repository\\IRepository\\IRepository.cs",
               "RelativeDocumentMoniker": "Shop.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "ToolTip": "D:\\Skylark\\Dot Net\\MVC\\Mvc_Core_Learning\\ShopEase\\Shop.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Pankaj Suryawanshi\\Downloads\\Git\\ShopEase\\Shop.DataAccess\\Repository\\IRepository\\IRepository.cs",
               "RelativeToolTip": "Shop.DataAccess\\Repository\\IRepository\\IRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
