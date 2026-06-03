@@ -7,23 +7,48 @@ pool:
 variables:
   buildConfiguration: 'Release'
 
-steps:
-- task: UseDotNet@2
-  inputs:
-    packageType: 'sdk'
-    version: '8.x'
+stages:
 
-- script: dotnet restore
-  displayName: 'Restore Packages'
+- stage: Build
+  jobs:
+  - job: BuildJob
+    steps:
 
-- script: dotnet build ShopEase/ShopEase.csproj --configuration $(buildConfiguration)
-  displayName: 'Build Project'
+    - task: UseDotNet@2
+      inputs:
+        packageType: 'sdk'
+        version: '8.x'
 
-- script: dotnet publish ShopEase/ShopEase.csproj --configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)
-  displayName: 'Publish Project'
+    - script: dotnet restore
+      displayName: 'Restore Packages'
 
-- task: PublishBuildArtifacts@1
-  inputs:
-    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
-    ArtifactName: 'publish'
-    publishLocation: 'Container'
+    - script: dotnet build ShopEase/ShopEase.csproj --configuration $(buildConfiguration)
+      displayName: 'Build Project'
+
+    - script: dotnet publish ShopEase/ShopEase.csproj --configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)
+      displayName: 'Publish Project'
+
+    - task: PublishBuildArtifacts@1
+      inputs:
+        PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+        ArtifactName: 'publish'
+        publishLocation: 'Container'
+
+- stage: Deploy
+  dependsOn: Build
+
+  jobs:
+  - deployment: DeployWeb
+
+    environment: 'Production'
+
+    strategy:
+      runOnce:
+        deploy:
+          steps:
+
+          - task: AzureWebApp@1
+            inputs:
+              azureSubscription: 'ShopEaseConnection'
+              appName: 'shopease'
+              package: '$(Build.ArtifactStagingDirectory)/**/*.zip'
