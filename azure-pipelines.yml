@@ -51,4 +51,4 @@ stages:
             inputs:
               azureSubscription: 'ShopEaseConnection'
               appName: 'shopease'
-              package: '$(Build.ArtifactStagingDirectory)/**/*.zip'
+              package: '$(Pipeline.Workspace)/publish/**/*.zip'
