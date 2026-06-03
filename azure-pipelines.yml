@@ -1,5 +1,5 @@
 trigger:
-  - main
+- main
 
 pool:
   vmImage: 'windows-latest'
@@ -25,12 +25,20 @@ stages:
     - script: dotnet build ShopEase/ShopEase.csproj --configuration $(buildConfiguration)
       displayName: 'Build Project'
 
-    - script: dotnet publish ShopEase/ShopEase.csproj --configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)
+    - script: dotnet publish ShopEase/ShopEase.csproj --configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)/publish
       displayName: 'Publish Project'
+
+    - task: ArchiveFiles@2
+      inputs:
+        rootFolderOrFile: '$(Build.ArtifactStagingDirectory)/publish'
+        includeRootFolder: false
+        archiveType: 'zip'
+        archiveFile: '$(Build.ArtifactStagingDirectory)/publish.zip'
+        replaceExistingArchive: true
 
     - task: PublishBuildArtifacts@1
       inputs:
-        PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+        PathtoPublish: '$(Build.ArtifactStagingDirectory)/publish.zip'
         ArtifactName: 'publish'
         publishLocation: 'Container'
 
@@ -47,8 +55,11 @@ stages:
         deploy:
           steps:
 
+          - download: current
+            artifact: publish
+
           - task: AzureWebApp@1
             inputs:
               azureSubscription: 'ShopEaseConnection'
               appName: 'shopease'
-              package: '$(Pipeline.Workspace)/publish/**/*.zip'
+              package: '$(Pipeline.Workspace)/publish/publish.zip'
